@@ -9,7 +9,7 @@
     padding: 0;
 }
 .cabecalho{
-    padding: 2% 0% 0% 15%;
+    padding: 5% 0% 0% 15%;
 }
 .cabecalho__navegacao{
     display: flex;
@@ -30,7 +30,7 @@ body {
 .apresentacao {
     padding: 5% 15%;
     display: flex;
-    gap: 52px;
+    gap: 82px;
     align-items: center;
     justify-content: space-between;
 
@@ -93,8 +93,7 @@ body {
     font-size: 1.5rem;
     text-align: center;
     font-weight: 400;
-    position: absolute;
-    bottom: -100%;
+
 }
 
 
@@ -115,5 +114,7 @@ body {
     }
     .autoria{
         width: 100%;
+        position: absolute;
+        bottom: -100%;
     }
 }
