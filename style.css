@@ -110,6 +110,8 @@ body {
     }
     .apresentacao__conteudo{
         width: auto;
-
+    }
+    .autoria{
+        width: 100%;
     }
 }
