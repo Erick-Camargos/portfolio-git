@@ -89,6 +89,7 @@ body {
     background-color:var(--cor-secundaria);
     color: var(--cor-primaria);
     padding: 24px;
+    width: auto;
     font-family: 'Monteserrat', sans-serif;
     font-size: 1.5rem;
     display: flex;
