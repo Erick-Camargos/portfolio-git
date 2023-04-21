@@ -118,3 +118,24 @@ body {
         bottom: -100%;
     }
 }
+@media (max-height: 1200px){
+    .cabecalho{
+        padding: auto;
+    }
+    .cabecalho__navegacao{
+        width: auto;
+        justify-content: center;
+    }
+    .apresentacao {
+    flex-direction: column-reverse;
+    padding: 5%;
+    }
+    .apresentacao__conteudo{
+        width: 100%;
+    }
+    .autoria{
+        width: 100%;
+        position: absolute;
+        bottom: -100%;
+    }
+}
