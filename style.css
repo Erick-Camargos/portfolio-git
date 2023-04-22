@@ -93,6 +93,10 @@ body {
     font-size: 1.5rem;
     text-align: center;
     font-weight: 400;
+    position: bottom;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 
 }
 
@@ -112,9 +116,6 @@ body {
     .apresentacao__conteudo{
         width: 100%;
     }
-    .autoria{
-        width: 100%;
-        position: absolute;
-        bottom: -100%;
-    }
+
 }
+
